@@ -1,6 +1,6 @@
-# Cam - Web-based Image Editor
+# Filter - Web-based Image Editor
 
-Cam is a powerful, web-based image editor built with React and TypeScript. It provides a modern, intuitive interface for quick image edits and filters, optimized for both desktop and mobile devices.
+Filter is a powerful, web-based image editor built with React and TypeScript. It provides a modern, intuitive interface for quick image edits and filters, optimized for both desktop and mobile devices.
 
 ## ✨ Features
 
@@ -13,7 +13,7 @@ Cam is a powerful, web-based image editor built with React and TypeScript. It pr
 
 ## 🚀 Demo
 
-Try out Cam at: [https://cam.addy.ie](https://cam.addy.ie)
+Try out Filter at: [https://filter.addy.ie](https://filter.addy.ie)
 
 ## 🛠️ Technology Stack
 
@@ -28,8 +28,8 @@ Try out Cam at: [https://cam.addy.ie](https://cam.addy.ie)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/addyosmani/cam.git
-   cd cam
+   git clone https://github.com/addyosmani/filter.git
+   cd filter
    ```
 
 2. Install dependencies:
@@ -59,7 +59,7 @@ The editor can be customized through the `src/config/editorConfig.ts` file:
 
 ## 📱 Mobile Support
 
-Cam is designed to be fully responsive and touch-friendly. Key mobile features include:
+Filter is designed to be fully responsive and touch-friendly. Key mobile features include:
 
 - Touch gesture support
 - Mobile-optimized UI

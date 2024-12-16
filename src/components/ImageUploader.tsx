@@ -39,7 +39,7 @@ export const ImageUploader: React.FC<ImageUploaderProps> = ({ onImageSelect }) =
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-900 p-4">
       <div className="text-center">
-        <h1 className="text-4xl font-bold text-white mb-6">Cam</h1>
+        <h1 className="text-4xl font-bold text-white mb-6">Filter</h1>
         <p className="text-gray-400 mb-8">Upload an image to start editing</p>
         {isProcessing ? (
           <LoadingSpinner />
@@ -61,4 +61,4 @@ export const ImageUploader: React.FC<ImageUploaderProps> = ({ onImageSelect }) =
       </div>
     </div>
   );
-};
+}
