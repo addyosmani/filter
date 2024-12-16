@@ -2,6 +2,8 @@
 
 Filter is a powerful, web-based image editor built with React and TypeScript. It provides a modern, intuitive interface for quick image edits and filters, optimized for both desktop and mobile devices.
 
+![](https://filter.addy.ie/meta.jpg)
+
 ## ✨ Features
 
 - 🖼️ **Intuitive Image Editing**: Easy-to-use interface for basic and advanced image modifications
