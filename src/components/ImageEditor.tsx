@@ -16,8 +16,9 @@ export const ImageEditor: React.FC<ImageEditorProps> = ({
   const config = createEditorConfig(imageUrl);
 
   return (
-    <div className="h-screen w-full">
+    <div className="flex flex-col w-full h-full min-h-[100dvh] overflow-auto overscroll-none">
       <FilerobotImageEditor
+        className="flex-1"
         {...config}
         onSave={(editedImageObject) => {
           onSave(editedImageObject.imageBase64);
